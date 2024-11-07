@@ -1,6 +1,11 @@
 {
   "Référence" : "NSIT premier trimrestre 2021-2022",
   "Evaluations" : [
+     {
+          "Désignation":"NSI1_E2 2024",
+          "Barème":30,
+          "Notes": [16,27,14,13,23,21,17,30,25,22.5,19,17.5,13.5,16]
+      },
     {
           "Désignation":"NSI1_E1 2024",
           "Barème":30,
